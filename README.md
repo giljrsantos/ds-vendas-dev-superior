@@ -106,9 +106,12 @@ Para criar o Front-End
 # ScreenShot
 
 ## Página - Home
-<img src="./frontend/src/assets/img/screen-1.png" width="500" alt="accessibility text">
+<p align="center">
+<img src="./frontend/src/assets/img/screen-1.png" width="1800" alt="Home">
+</p>
 
 ## Página - Dashboard
-<img src="./frontend/src/assets/img/screen-2.png" width="500" alt="accessibility text">
-
+<p align="center">
+<img src="./frontend/src/assets/img/screen-2.png" width="1800" alt="Dashboard">
+</p>
 <h1 align="center">💻 Desenvolvido Por: Gilberto Júnior</h1>
